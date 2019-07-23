@@ -1,9 +1,3 @@
----
-title: Welcome
-layout: template
-filename: INDEX.md
---- 
-
 # Welcome 
 
 ... to the Techincal Enablement Training site!
