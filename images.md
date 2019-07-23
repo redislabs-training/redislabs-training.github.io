@@ -17,4 +17,4 @@ url: https://redislabs-training.github.io/images/index.html
 
 <img src="https://raw.githubusercontent.com/redislabs-training/redislabs-training.github.io/master/img/bedded82233604213bc6787fd4a623d8.jpg"/>
 
-<img src="https://raw.githubusercontent.com/redislabs-training/redislabs-training.github.io/master/img/eb82cc7572bc65d9647bda40716311d2.jpg/>
+<img src="https://raw.githubusercontent.com/redislabs-training/redislabs-training.github.io/master/img/eb82cc7572bc65d9647bda40716311d2.jpg"/>
