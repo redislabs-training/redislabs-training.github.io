@@ -1,4 +1,4 @@
 title: Technical Enablement
 description: Public content
-theme: jekyll-theme-minimal
+remote_theme: clarkhacks/Minimal-Text
 logo: https://raw.githubusercontent.com/redislabs-training/redislabs-training.github.io/master/img/logo.png
