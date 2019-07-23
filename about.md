@@ -2,7 +2,7 @@
 title: About
 layout: new-default
 permalink: /about/
-url: https://redislabs-training.github.io/about/
+url: https://redislabs-training.github.io/about/index.html
 ---
 
 # About
