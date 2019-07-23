@@ -1,6 +1,6 @@
 ---
 layout: new-default
-permalink: /
+url: https://redislabs-training.github.io/index.html
 ---
 
 # Welcome 
