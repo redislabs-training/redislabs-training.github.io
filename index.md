@@ -21,3 +21,7 @@ This web page is used in order to allow Redis Labs' Technical Enablement Team to
 
 ## Support or Contact
 Having trouble? [Contact the Technical Enablement Team](mailto:david.maier@redislabs.com) and we’ll help you sort it out.
+
+---
+
+* [About](/about)
