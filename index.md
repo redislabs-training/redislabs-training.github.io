@@ -1,3 +1,9 @@
+---
+title: Welcome
+layout: new-default
+permalink: /index/
+---
+
 # Welcome 
 
 ... to the Techincal Enablement Training site!
