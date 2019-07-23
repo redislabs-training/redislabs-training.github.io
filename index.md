@@ -2,8 +2,6 @@
 layout: home
 ---
 
-## Welcome 
-
 ... to the Techincal Enablement Training site!
 
 This web page is used in order to allow Redis Labs' Technical Enablement Team to share public content, e.g.:
