@@ -1,4 +1,8 @@
-# Welcome 
+---
+layout: home
+---
+
+## Welcome 
 
 ... to the Techincal Enablement Training site!
 
