@@ -1,7 +1,6 @@
 ---
 title: Welcome
 layout: new-default
-permalink: /index/
 ---
 
 # Welcome 
