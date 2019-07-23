@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: Technical Enablement
+description: Public content
+theme: jekyll-theme-minimal
+logo: https://raw.githubusercontent.com/redislabs-training/redislabs-training.github.io/master/img/logo.png
