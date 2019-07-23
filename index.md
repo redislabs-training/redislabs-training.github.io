@@ -1,5 +1,6 @@
 ---
 layout: new-default
+permalink: /index/
 ---
 
 # Welcome 
