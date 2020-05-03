@@ -97,3 +97,4 @@ HSET t:2020:10:29:1b63b504f5e64d9facbb45c684bbc99e city Lisbon value 58.28 custo
 HSET t:2020:6:3:457eb00b95b745198250d8ef4152140c city London value 62.24 customer_id 685255
 HSET t:2020:9:1:46a1e6c85ad54d009a42f446612a8dde city Berlin value 40.02 customer_id 132785
 HSET t:2020:1:21:1642e9c17f074fedab2d6c10c72d1802 city Barcelona value 43.05 customer_id 974411
+HSET t:2020:2:6:aebad408e3134558a320378c4f569f4a city London value 95.63 customer_id 314166
